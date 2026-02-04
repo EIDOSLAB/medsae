@@ -1,4 +1,4 @@
-# Mechanistic Interpretability for Medical Imaging Models with Sparse Autoencoders (SAEs)
+# MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders
 
 This repository provides tools and scripts for **mechanistic interpretability** of medical imaging models using **Sparse Autoencoders (SAEs)**. It supports training, evaluation, and analysis of SAEs on neural network activations, with a focus on models such as **CLIP** and **MedCLIP**.  
 
