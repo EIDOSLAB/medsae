@@ -2,8 +2,6 @@
 
 This repository provides tools and scripts for **mechanistic interpretability** of medical imaging models using **Sparse Autoencoders (SAEs)**. It supports training, evaluation, and analysis of SAEs on neural network activations, with a focus on models such as **CLIP** and **MedCLIP**.  
 
-![alt text](overview_illus.png "Overview of our proposed interpretability pipeline")
-
 ---
 
 ## 📑 Table of Contents
